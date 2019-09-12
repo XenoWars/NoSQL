@@ -1,0 +1,23 @@
+13:35:0 9-12-2019 Today is September 12th.
+13:35:0 9-12-2019 Today is September 12th.
+13:35:0 9-12-2019 Today is September 12th.
+13:35:0 9-12-2019 Yesterday was September 11th.
+13:35:0 9-12-2019 Yesterday was September 11th.
+13:35:0 9-12-2019 Yesterday was September 11th.
+13:35:0 9-12-2019 Tomorrow is September 13th.
+13:35:0 9-12-2019 Tomorrow is September 13th.
+13:35:0 9-12-2019 Tomorrow is September 13th.
+13:35:0 9-12-2019 What is E = mc^2?
+13:35:0 9-12-2019 What is E = mc^2?
+13:35:0 9-12-2019 What is E = mc^2?
+13:35:0 9-12-2019 The speed of light is 3 * e^8 miles per second.
+13:35:0 9-12-2019 The speed of light is 3 * e^8 miles per second.
+13:35:0 9-12-2019 The speed of light is 3 * e^8 miles per second.
+13:35:0 9-12-2019 The speed of sound is one-fifth of that.
+13:35:0 9-12-2019 The speed of sound is one-fifth of that.
+13:35:0 9-12-2019 The speed of sound is one-fifth of that.
+13:35:0 9-12-2019 I hope you had fun!
+13:35:0 9-12-2019 I hope you had fun!
+13:35:0 9-12-2019 I hope you had fun!
+true true
+A fitting end.
